@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Taviraj:300,400,700,300i,400i,700i");
+@import url("https://fonts.googleapis.com/css?family=Forum:300,400,700,300i,400i,700i");
 
 /*
 	Transitive by TEMPLATED
@@ -1634,7 +1634,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Taviraj", serif;
+		font-family: "Forum", serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
